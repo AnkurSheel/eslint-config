@@ -1,0 +1,20 @@
+{
+  "name": "@codinators/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "'Ankur <'ankur.sheel@gmail.com'>",
+  "license": "MIT",
+  "description": "Shared eslint, prettier config",
+  "private": false,
+  "keywords": [
+    "eslint, eslintconfig"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "yalc": "^1.0.0-pre.34"
+  },
+  "peerDependencies": {
+  }
+}
